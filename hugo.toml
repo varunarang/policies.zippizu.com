@@ -1,0 +1,16 @@
+baseURL = 'https://zippyzu.com/'
+languageCode = 'en-us'
+title = 'ZippyZu'
+theme = 'ananke'
+
+
+[menu]
+[[menu.main]]
+	identifier = 'about'
+	name = 'About Us'
+	url = '/policies/about/'
+
+[[menu.main]]
+	identifier = 'privacy-policy'
+	name = "Privacy Policy"
+	url = '/policies/privacy-policy/'
