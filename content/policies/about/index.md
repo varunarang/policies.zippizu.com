@@ -8,6 +8,7 @@ draft = false
 ## Contact
 
 - reachout and say hi to us at <hi@zippyzu.com>
+- If you need your account to be deleted or your data identification removed, please get in touch at <hi@zippyzu.com>
 
 <!-- ## Introduction
 
